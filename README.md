@@ -5,3 +5,5 @@ pycharm_settings.jar
 ## 格式化代码 改为 Ctrl+Alt+Shift+L, 为了避免和某些软件冲突
 ## 加深关键字颜色 去掉默认折叠等
 ## 自动添加python文件头等
+
+# 添加了IDEA设置,和PyCharm差不多, Ctrl+ALT+向下箭头是向下复制一行
